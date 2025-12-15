@@ -1,0 +1,4 @@
+matplotlib
+biopython
+prettytable
+numpy
